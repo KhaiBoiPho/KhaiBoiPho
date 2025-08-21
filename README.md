@@ -43,6 +43,7 @@ I'm [Nguyen Quang Khai](https://www.linkedin.com/in/khaisting/), 👨🏻‍💻
 ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=flat&logo=numpy&logoColor=white)
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=flat&logo=plotly&logoColor=black)
 ![Seaborn](https://img.shields.io/badge/Seaborn-0099CC.svg?style=flat&logoColor=white)
+![MLflow](https://img.shields.io/badge/MLflow-%23000000.svg?style=flat&logo=mlflow&logoColor=white)
 
 [Become a sponsor.](https://github.com/sponsors/KhaiBoiPho)
 <img src="https://komarev.com/ghpvc/?username=KhaiBoiPho&color=blue&style=flat-square&label=visitors" align="right" />
