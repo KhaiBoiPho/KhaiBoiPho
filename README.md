@@ -1,4 +1,4 @@
-### Hi <img src="https://raw.githubusercontent.com/lcaohoanq/lcaohoanq/main/icons/wave.gif" width="30px">
+### Hi !!! <img src="https://raw.githubusercontent.com/lcaohoanq/lcaohoanq/main/icons/wave.gif" width="30px">
 
 <br/>
 
@@ -12,9 +12,7 @@ I'm [Nguyen Quang Khai](https://www.linkedin.com/in/khaisting/), 👨🏻‍💻
 
 - 🇻🇳 Living in **Ho Chi Minh, Viet Nam**
 
-- When I'm not coding, I’m either racing on two wheels 🏍️ or vibing as a “city boy” 🌆.
-
-- [Become a sponsor](https://github.com/sponsors/KhaiBoiPho)
+- When I'm not coding, I’m either racing on two wheels 🏍 or vibing as a “city boy” 🌆.
 
 <br/>
 
@@ -24,16 +22,20 @@ I'm [Nguyen Quang Khai](https://www.linkedin.com/in/khaisting/), 👨🏻‍💻
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KhaiBoiPho&show_icons=true&layout=compact&theme=vue&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
 
 # 💻Tech Stack
-![Python](https://img.shields.io/badge/Python-3670A0?style=flat&logo=python&logoColor=ffdd54) 
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white) 
+![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54) 
+![Java](https://img.shields.io/badge/Java-ED8B00.svg?style=flat&logo=openjdk&logoColor=white) 
 ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=flat&logo=fastapi) 
-![MySQL](https://img.shields.io/badge/MySQL-00f.svg?style=flat&logo=mysql&logoColor=white)
-![Microsoft SQL Server](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=flat&logo=microsoft-sql-server&logoColor=white) 
-![RAG](https://img.shields.io/badge/RAG-%2300599C.svg?style=flat&logo=OpenAI&logoColor=white)
-![LlamaIndex](https://img.shields.io/badge/LlamaIndex-FF6F00?style=flat&logo=llama&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white) 
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white) 
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white) 
-![Jupyter](https://img.shields.io/badge/Jupyter-F37626.svg?style=flat&logo=Jupyter&logoColor=white)
+![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=flat&logo=mysql&logoColor=white) 
+![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=flat&logo=microsoftsqlserver&logoColor=white) 
+![RAG](https://img.shields.io/badge/RAG-%2300A86B.svg?style=flat&logoColor=white) 
+![LlamaIndex](https://img.shields.io/badge/LlamaIndex-FF9900?style=flat&logoColor=white) 
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C.svg?style=flat&logo=chainlink&logoColor=white) 
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat&logo=html5&logoColor=white) 
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=flat&logo=css3&logoColor=white) 
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E) 
+![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=flat&logo=docker&logoColor=white) 
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626.svg?style=flat&logo=Jupyter&logoColor=white) 
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white) 
 
+[Become a sponsor.](https://github.com/sponsors/KhaiBoiPho)
 <img src="https://komarev.com/ghpvc/?username=KhaiBoiPho&color=blue&style=flat-square&label=visitors" align="right" />
