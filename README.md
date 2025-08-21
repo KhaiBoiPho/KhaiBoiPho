@@ -12,7 +12,7 @@ I'm [Nguyen Quang Khai](https://www.linkedin.com/in/khaisting/), 👨🏻‍💻
 
 - 🇻🇳 Living in **Ho Chi Minh, Viet Nam**
 
-- When I'm not coding, I’m either racing on two wheels 🏍 or vibing as a “city boy” 🌆.
+- When I'm not coding, I’m either racing on two wheels 🏍 or vibing as a [city boy](https://www.youtube.com/watch?v=ne3Rz__UF7s&ab_channel=VuiV%E1%BA%BB) 🌆.
 
 <br/>
 
@@ -35,7 +35,14 @@ I'm [Nguyen Quang Khai](https://www.linkedin.com/in/khaisting/), 👨🏻‍💻
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E) 
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=flat&logo=docker&logoColor=white) 
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626.svg?style=flat&logo=Jupyter&logoColor=white) 
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white) 
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white)
+![HTTP](https://img.shields.io/badge/HTTP-005C84?style=flat&logo=http&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=flat&logo=PyTorch&logoColor=white)
+![Hugging Face](https://img.shields.io/badge/HuggingFace-%23FFD21E.svg?style=flat&logo=huggingface&logoColor=black)
+![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=flat&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=flat&logo=numpy&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=flat&logo=plotly&logoColor=black)
+![Seaborn](https://img.shields.io/badge/Seaborn-0099CC.svg?style=flat&logoColor=white)
 
 [Become a sponsor.](https://github.com/sponsors/KhaiBoiPho)
 <img src="https://komarev.com/ghpvc/?username=KhaiBoiPho&color=blue&style=flat-square&label=visitors" align="right" />
