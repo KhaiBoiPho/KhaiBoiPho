@@ -10,7 +10,8 @@ I'm [Nguyen Quang Khai](https://www.linkedin.com/in/khaisting/), 👨🏻‍💻
 
 - 🇻🇳 Living in **Ho Chi Minh, Viet Nam**
 
-- When I'm not coding, I’m either racing on two wheels 🏍️ or vibing as a “city boy” 🌆.
+- When I'm not coding, I’m either racing on two wheels 🏍️ or vibing as
+a “city boy” 🌆.
 
 <br/>
 
