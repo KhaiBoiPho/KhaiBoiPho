@@ -1,4 +1,4 @@
-### Hi <img src="img/icons8-party-popper-48.png" width="30px">
+### Hi <img src="https://raw.githubusercontent.com/lcaohoanq/lcaohoanq/main/icons/wave.gif" width="30px">
 
 <br/>
 
@@ -6,7 +6,7 @@ I'm [Nguyen Quang Khai](https://www.linkedin.com/in/khaisting/), 👨🏻‍💻
 
 <br/>
 <br/>
-<img align="right" alt="Photography Image" src="img/khai.jpg" height="180" />
+<img align="right" alt="Photography Image" src="img/khai.jpg" height="210" />
 
 - 🇻🇳 Living in **Ho Chi Minh, Viet Nam**
 
