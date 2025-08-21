@@ -6,7 +6,7 @@ I'm [Nguyen Quang Khai](https://www.linkedin.com/in/khaisting/), 👨🏻‍💻
 
 <br/>
 <br/>
-<img align="right" alt="Photography Image" src="img/khai.jpg" height="180" />
+<img align="right" alt="Photography Image" src="img/khai.jpg" width="180" />
 
 - 🇻🇳 Living in **Ho Chi Minh, Viet Nam**
 
