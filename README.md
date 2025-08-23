@@ -2,13 +2,10 @@
 
 ### Hi !!! <img src="https://raw.githubusercontent.com/lcaohoanq/lcaohoanq/main/icons/wave.gif" width="30px">
 
-<br/>
-
  **<h3 align="left">I'm [Nguyen Quang Khai](https://www.linkedin.com/in/khaisting/), 👨🏻‍💻 an aspiring **AI/ML Engineer**, focusing on **Natural Language Processing**, **Computer Vision**, and **MLOps**. I’m also an Open-Source enthusiast, with my projects openly available on [GitHub](https://github.com/KhaiBoiPho?tab=repositories).</h3>**
 
 🎓 Final-year Computer Science student at FPT University, focusing on building **real-world AI systems** — from classical ML to deep learning and recommender systems. I love bridging the gap between research models and **scalable, maintainable products**. Currently exploring opportunities to work on practical AI/ML projects where **performance, deployment, and real-world impact** truly matter.
 
-<br/>
 <br/>
 <img align="right" alt="Photography Image" src="img/khai.jpg" width="230" height="350" />
 
