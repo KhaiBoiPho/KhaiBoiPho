@@ -1,5 +1,3 @@
-![](https://user-images.githubusercontent.com/10498744/210012254-234538ff-d198-48aa-8964-37e6fd45d227.gif)
-
 ### Hi !!! <img src="https://raw.githubusercontent.com/lcaohoanq/lcaohoanq/main/icons/wave.gif" width="30px">
 
  **<h3 align="left">I'm [Nguyen Quang Khai](https://www.linkedin.com/in/khaisting/), 👨🏻‍💻 an aspiring **AI/ML Engineer**, focusing on **Natural Language Processing**, **Computer Vision**, and **MLOps**. I’m also an Open-Source enthusiast, with my projects openly available on [GitHub](https://github.com/KhaiBoiPho?tab=repositories).</h3>**
