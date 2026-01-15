@@ -13,10 +13,6 @@
 
 <br/>
 
-### 📈 GitHub Stats
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KhaiBoiPho&show_icons=true&layout=compact&theme=vue&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
-
 # 💻Tech Stack
 ![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54) 
 ![Java](https://img.shields.io/badge/Java-ED8B00.svg?style=flat&logo=openjdk&logoColor=white) 
