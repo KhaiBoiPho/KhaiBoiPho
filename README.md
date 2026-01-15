@@ -4,14 +4,14 @@
 
 🎓 Final-year Computer Science student at FPT University, focusing on building **real-world AI systems** — from classical ML to deep learning and recommender systems. I love bridging the gap between research models and **scalable, maintainable products**. Currently exploring opportunities to work on practical AI/ML projects where **performance, deployment, and real-world impact** truly matter.
 
-<br/>
+<!-- <br/>
 <img align="right" alt="Photography Image" src="img/khai.jpg" width="230" height="350" />
 
 - 🇻🇳 Living in **Ho Chi Minh, Viet Nam**
 
 - When I'm not coding, I’m either racing on two wheels 🏍 or vibing as a [city boy](https://www.youtube.com/watch?v=ne3Rz__UF7s&ab_channel=VuiV%E1%BA%BB) 🌆.
 
-<br/>
+<br/> -->
 
 # 💻Tech Stack
 ![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54) 
